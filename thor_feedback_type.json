@@ -1,0 +1,15 @@
+[
+
+    {
+        "responseCode": "1", "responseMessage": "OK",
+        "leaveTypes":
+            [
+                { "id": 1, "name": "Pay" },
+                { "id": 2, "name": "Management" },
+                { "id": 3, "name": "Colleague" },
+                { "id": 4, "name": "Site" },
+                { "id": 5, "name": "Other" }
+            ]
+    }
+
+]
